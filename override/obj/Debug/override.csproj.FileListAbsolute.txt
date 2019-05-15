@@ -1,0 +1,19 @@
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\bin\Debug\@override.exe.config
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\override.csprojResolveAssemblyReference.cache
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\override.Form1.resources
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\override.Properties.Resources.resources
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\override.csproj.GenerateResource.Cache
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\bin\Debug\@override.exe
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\bin\Debug\@override.pdb
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\@override.exe
+c:\users\teknoloji\documents\visual studio 2012\Projects\override\override\obj\Debug\@override.pdb
+D:\C#\override\override\bin\Debug\@override.exe.config
+D:\C#\override\override\bin\Debug\@override.exe
+D:\C#\override\override\bin\Debug\@override.pdb
+D:\C#\override\override\obj\Debug\override.csprojAssemblyReference.cache
+D:\C#\override\override\obj\Debug\override.Form1.resources
+D:\C#\override\override\obj\Debug\override.Properties.Resources.resources
+D:\C#\override\override\obj\Debug\override.csproj.GenerateResource.cache
+D:\C#\override\override\obj\Debug\override.csproj.CoreCompileInputs.cache
+D:\C#\override\override\obj\Debug\@override.exe
+D:\C#\override\override\obj\Debug\@override.pdb
